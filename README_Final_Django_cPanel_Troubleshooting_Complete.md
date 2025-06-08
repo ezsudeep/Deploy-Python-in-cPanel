@@ -239,4 +239,4 @@ source /home/user/virtualenv/app/3.12/bin/activate && cd /home/user/app
 
 With this guide, you can handle **90%+ of cPanel Django deployment errors** confidently.
 
-**Need a PDF version, GitHub Wiki, or starter repo?** Just ask!
+
