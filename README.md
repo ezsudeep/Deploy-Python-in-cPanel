@@ -149,7 +149,7 @@ python manage.py collectstatic --noinput
 
 ---
 
-## 🌐 Step 6: Configure Static Files with WhiteNoise
+## 🌐 Step 6: Configure Static Files with WhiteNoise [https://whitenoise.readthedocs.io/en/latest/]
 
 ### 6.1 Install WhiteNoise
 ```bash
