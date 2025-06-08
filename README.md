@@ -198,3 +198,7 @@ Visit: `https://yourdomain.com`
 Your Django app with Tailwind CSS is now **live on cPanel**, fully backed by a MySQL database, secured `.env` config, and served static assets reliably via WhiteNoise.
 
 > If you need bonus features like email, domain redirects etc. — build from here!
+
+
+## Does cPanel support Python, Java, or other frameworks?
+https://support.cpanel.net/hc/en-us/articles/4408475507479-Does-cPanel-support-Python-Java-or-other-frameworks
