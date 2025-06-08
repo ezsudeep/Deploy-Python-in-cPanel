@@ -1,6 +1,6 @@
 # How to Deploy a Django App with Tailwind CSS on cPanel using the Python Setup App
 
-This guide provides a **step-by-step walkthrough** to deploy a Django project (with Tailwind CSS) on a cPanel-based hosting environment using the **Python App Setup tool**.
+This guide provides a **step-by-step walkthrough** to deploy a Django project (with Tailwind CSS) [Django (with Tailwind, Bootstrap, or plain CSS/JS) on cPanel using the Python Setup App]  on a cPanel-based hosting environment using the **Python App Setup tool**.
 
 ---
 
